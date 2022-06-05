@@ -57,7 +57,7 @@ def auth_login():
     intIDUser = 0
     strUserName = ""
 
-    if email == 'test@email.com' & password == 'thisisthepass':
+    if email == 'test@email.com' and password == 'thisisthepass':
       intIDUser = 951
       strUserName = 'Andres'
 
